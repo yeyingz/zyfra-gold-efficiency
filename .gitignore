@@ -1,0 +1,17 @@
+# Python y Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Archivos varios
+*.pdf
+*.html
+*.zip
+*.odt
+
+# Entornos virtuales
+.env
+env/
+venv/
+.DS_Store
